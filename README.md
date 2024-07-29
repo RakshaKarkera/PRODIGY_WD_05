@@ -1,0 +1,2 @@
+The Weather App provides real-time weather information for user-specified locations using the OpenWeatherMap API. With a user-friendly interface, the app displays current temperature, humidity, and wind speed, along with dynamic weather icons representing different weather conditions. Designed with HTML, CSS, and JavaScript, the app features smooth animations and a responsive layout for an enhanced user experience.
+
